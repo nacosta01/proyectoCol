@@ -1,0 +1,7 @@
+Proyecto comun (rama master)
+
+
+- edicion en rama1
+
+- Modificacion en rama2
+
